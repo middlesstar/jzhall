@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>images/shak/selectRoom/logo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{740,0},{337,93}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{337,93}</string>
+			</dict>
+			<key>images/shak/selectRoom/progressbar0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{833,0},{624,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{624,26}</string>
+			</dict>
+			<key>images/shak/selectRoom/progressbar1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{740,337},{624,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{624,26}</string>
+			</dict>
+			<key>images/shak/selectRoom/sr_back.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{859,76},{72,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{72,82}</string>
+			</dict>
+			<key>images/shak/selectRoom/sr_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{1074,740}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1074,740}</string>
+			</dict>
+			<key>images/shak/selectRoom/sr_black.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{766,780},{217,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{217,39}</string>
+			</dict>
+			<key>images/shak/selectRoom/sr_gold.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{832,624},{237,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{237,42}</string>
+			</dict>
+			<key>images/shak/selectRoom/sr_ingot.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{766,536},{244,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{244,42}</string>
+			</dict>
+			<key>images/shak/selectRoom/sr_limit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{808,536},{198,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{198,24}</string>
+			</dict>
+			<key>images/shak/selectRoom/sr_limit3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{766,337},{199,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{199,58}</string>
+			</dict>
+			<key>images/shak/selectRoom/sr_recharge.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{859,0},{76,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{76,80}</string>
+			</dict>
+			<key>images/shak/selectRoom/sr_room1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1450},{296,295}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{296,295}</string>
+			</dict>
+			<key>images/shak/selectRoom/sr_room2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{294,1074},{296,295}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{296,295}</string>
+			</dict>
+			<key>images/shak/selectRoom/sr_room3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1074},{376,294}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{376,294}</string>
+			</dict>
+			<key>images/shak/selectRoom/sr_rule.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{939,0},{72,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{72,82}</string>
+			</dict>
+			<key>images/shak/selectRoom/sr_settings.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{859,148},{72,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{72,82}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>shark_selectRoom.png</string>
+			<key>realTextureFileName</key>
+			<string>shark_selectRoom.png</string>
+			<key>size</key>
+			<string>{1024,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

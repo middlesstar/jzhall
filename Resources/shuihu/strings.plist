@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appname</key>
+	<string>千炮金蟾捕鱼</string>
+	<!-- 对话框 -->
+	<key>back_to_room</key>
+	<string>返回房间</string>
+	<key>back_to_room_content</key>
+	<string>是否要退出游戏!</string>
+	<key>exit_game</key>
+	<string>退出游戏</string>
+	<key>exit_game_content</key>
+	<string>是否要退出游戏!</string>
+	<key>back_to_login</key>
+	<string>退出</string>
+	<key>back_to_login_content</key>
+	<string>是否要返回大厅</string>
+	<key>back_to_mode</key>
+	<string>返回</string>
+	<key>back_to_mode_content</key>
+	<string>是否要返回模式选择!</string>
+
+	<key>system_tips_title</key>
+	<string>系统提示</string>
+	<!-- 登陆 -->
+	<key>logon_account_placeholder</key>
+	<string>请输入帐号</string>
+	<key>logon_password_placeholder</key>
+	<string>请输入密码</string>
+	<key>logon_account_null</key>
+	<string>帐号不能为空，请输入帐号</string>
+	<key>logon_password_null</key>
+	<string>密码不能为空，请输入密码</string>
+	<key>logon_logoning</key>
+	<string>登陆中...</string>
+	
+	<key>login_sucess</key>
+	<string>登陆成功 正在获取游戏列表..</string>
+	<key>login_failed</key>
+	<string>登陆失败!!! [code:%d]</string>
+	<key>update_notify_title</key>
+	<string>更新通知</string>
+	<key>op_title</key>
+	<string>操作提示</string>
+	<key>op_enter_amount</key>
+	<string>请输入数量</string>
+	<key>op_enter_pwd</key>
+	<string>请输入密码</string>
+	<key>exchange_not_engouh</key>
+	<string>需要%d钻石才能兑换</string>
+	<key>get_kefu_failed</key>
+	<string>获取客服信息失败,请稍后获取</string>
+
+	<key>message_content_time</key>
+	<string>%04d年%02d月%02d日</string>
+	<key>message_content_title</key>
+	<string>排行榜奖励</string>
+	<key>message_content_content</key>
+	<string>您收到了来自%d赠送的%d金币，请您点击确认查收。  \n</string>
+
+	<!-- 注册 -->
+	<key>register_err_account_len</key>
+	<string>游戏帐号必须大于6位，小于16位，请重新输入</string>
+	<key>register_err_password_len</key>
+	<string>游戏密码必须大于6位，小于16位，请重新输入</string>
+	<key>register_err_password_confirm</key>
+	<string>您两次输入的密码不一致，请重新输入</string>
+	<key>register_err_readme</key>
+	<string>需同意用户服务协议才能注册帐号。</string>
+	<key>register_readme</key>
+	<string>我已阅读并同意《用户服务协议》</string>
+	<key>register_account_placeholder</key>
+	<string>请输入帐号</string>
+	<key>register_password_placeholder</key>
+	<string>请输入密码</string>
+	<key>register_password2_placeholder</key>
+	<string>请再次输入密码</string>
+	
+	<!-- 房间 -->
+	<key>none_quick_mode_room</key>
+	<string>没有快速加入房间</string>
+	<key>none_match_mode_room</key>
+	<string>玩家激情对战玩法，敬请期待！</string>
+	<key>none_rate_mode_room</key>
+	<string> 敬请期待！</string>
+
+	<key>gr_request_failure</key>
+	<string>请求失败</string>
+	<key>gr_login_success</key>
+	<string>登陆成功: 正在读取房间信息...</string>
+	<key>gr_login_failed</key>
+	<string>登陆失败</string>
+	<key>gr_update_notify</key>
+	<string>更新通知</string>
+	<key>gr_user_invite</key>
+	<string>用户邀请</string>
+	<key>gr_user_invite_failed</key>
+	<string>用户邀请失败</string>
+	<key>gr_exit_room</key>
+	<string>房间退出</string>
+  
+	<!-- 联网通知 -->
+	<key>network_state_notice</key>
+	<string>联网状态</string>
+	<key>network_state_content</key>
+	<string>网络连接不可用，请选择单机版或者连接网络</string>
+  
+	<!-- 游戏相关 -->
+	<key>Addtishi</key>
+	<string>金币不足或下注达到上限</string>
+	<key>AddCounttishi</key>
+	<string>你当前下注达到上限,每玩一局都可以提升100上限</string>
+	
+	<!-- 每日提醒 -->
+	<key>tips_count</key>
+	<string>6</string>
+	<key>tips_0</key>
+	<string>温馨提醒：全盘龙可以玩小玛丽（特殊场景）二十七次。</string>
+	<key>tips_1</key>
+	<string>温馨提醒：集齐8个全盘奖就开启“大宋宝藏”，百分百中全盘龙。</string>
+	<key>tips_2</key>
+	<string>温馨提醒：房间等级越高，获得全盘奖的机率越大。</string>
+	<key>tips_3</key>
+	<string>温馨提醒：连线可以获取积分，达到一定积分可以免费抽奖，奖项有元宝。</string>
+	<key>tips_4</key>
+	<string>温馨提醒：紫龙狂舞，紫龙出现所得积分X2</string>
+	<key>tips_5</key>
+	<string>温馨提醒：加水浒玩家QQ群：113066278不定时领取奖励。</string>
+</dict>
+</plist>

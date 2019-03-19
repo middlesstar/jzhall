@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>images/hall/expedition/expedition_clock.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{705,112},{41,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{41,47}</string>
+			</dict>
+			<key>images/hall/expedition/expedition_cover.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,414},{703,412}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{703,412}</string>
+			</dict>
+			<key>images/hall/expedition/expedition_open.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{705,0},{168,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{168,65}</string>
+			</dict>
+			<key>images/hall/expedition/expedition_start0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{873,0},{115,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{115,84}</string>
+			</dict>
+			<key>images/hall/expedition/expedition_table.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{705,414}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{705,414}</string>
+			</dict>
+			<key>images/hall/expedition/expedition_ticket.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{705,65},{155,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{155,47}</string>
+			</dict>
+			<key>images/hall/expedition/expedition_tips.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{988,0},{174,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{174,21}</string>
+			</dict>
+			<key>images/hall/expedition/expedition_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{860,84},{102,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{102,53}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>hall_expedition.png</string>
+			<key>realTextureFileName</key>
+			<string>hall_expedition.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

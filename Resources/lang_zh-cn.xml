@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lang_s>
+  <!-- ip和端口配置,测试服:120.26.6.159,内网:192.168.0.113 -->
+  <!--lang name="999999" value="login.92dwc.com" /--> 
+  <lang name="999999" value = "login.92dwc.com"/>
+  <lang name="999998" value="8300" />
+
+  <lang name="999995" value="visitorAccount0005" />
+  
+  <!-- ---------------------文字信息---------------------- -->
+  <lang name="1" value="登录失败" />
+  <lang name="2" value="与服务器断开连接,是否重新连接?" />
+  <lang name="3" value="亲,真的要走了吗?" />
+  <lang name="4" value="功能暂未开放" />
+  <lang name="5" value="未知错误" />
+  <lang name="6" value="是否要返回登录?" />
+  
+  <lang name="10" value="可以领取啦" />
+  <lang name="11" value="恭喜您获得%d金币" />
+  <lang name="12" value="恭喜您获得%d元宝" />
+  <lang name="13" value="您确定要花费%d元宝兑换%s吗？" />
+  <lang name="14" value="《街机电玩城》最全老虎机、捕鱼游戏合集，快来赢取5万现金大奖！" />
+  <lang name="15" value="分享成功!" />
+  <lang name="16" value="赠送成功" />
+  <lang name="17" value="您的船票不足！" />
+  <lang name="18" value="不能给自己赠送船票" />
+  <lang name="19" value="请输入接受船票玩家的数字ID" />
+
+  <!-- 常见错误提示 -->
+  <lang name="20" value="玩家不存在" />
+  <lang name="21" value="今日已领取" />
+  <lang name="22" value="您的金币数量大于1000，不能领取" />
+  <lang name="23" value="今天的抽奖机会已用完，请明天再来！" />
+  <lang name="24" value="不存在的物品" />
+  <lang name="25" value="元宝不足" />
+  <lang name="26" value="您填写的资料不完整！" />
+  <lang name="27" value="资料已经提交，请耐心等待工作人员进行审核！" />
+  <lang name="28" value="审核中" />
+  <lang name="29" value="审核通过" />
+  
+  <lang name="30" value="领取成功" />
+  <lang name="31" value="您已领取过奖品!" />
+  <lang name="32" value="您输入的兑换码错误!" />
+  <lang name="33" value="对不起，您的元宝不够，暂时兑换不了!" />
+  <lang name="34" value="请填写正确的手机号和QQ号!" />
+  <lang name="35" value="您的金币不足" />
+  <lang name="36" value="两次输入的密码不一致!" />
+  <lang name="37" value="请输入昵称和密码!" />
+  <lang name="38" value="游客登录" />
+  <lang name="39" value="请输入密码" />
+  <lang name="40" value="请您记住账号昵称和密码，通过昵称登录可找回您的账号。是否继续？" />
+  <lang name="41" value="对不起，昵称为6-15个字符，一个汉字占3个字符，您输入的昵称长度不符" />
+  <lang name="42" value="对不起，密码为6-15个字符，您输入的密码不符，请重新输入" />
+  
+  <lang name="45" value="充值成功" />
+  <lang name="46" value="您还没有可领取的收益!快去分享给您的朋友吧!" />
+  
+  <!-- 邮件 -->
+  <lang name="50" value="时间:%s" />
+  
+  <!-- 分享 -->
+  <lang name="60" value="领取成功!" />
+  <lang name="61" value="您输入的分享码不存在!" />
+  <lang name="62" value="该分享码在此设备上已经领取过!" />
+  <lang name="63" value="您已领取过该分享码!" />
+  <lang name="64" value="不能领取自己的分享码!" />
+  
+  <!-- 称号 -->
+  <lang name="70" value="流浪者" />
+  <lang name="71" value="矿工" />
+  <lang name="72" value="矿长" />
+  <lang name="73" value="淘金者" />
+  <lang name="74" value="资本家" />
+  <lang name="75" value="财阀" />
+  <lang name="76" value="领主" />
+  <lang name="77" value="侯爵" />
+  <lang name="78" value="公爵" />
+  <lang name="79" value="国王" />
+  
+  <!-- 聊天 -->
+  <lang name="100" value="%s 的红包记录" />
+  <lang name="101" value="%d.玩家  %s  %d" />
+  <lang name="102" value="您的今日发红包金额达到上限" />
+  
+  <!-- ---------------------摇钱树的话---------------------- -->
+  <lang name="1100" value="主人，别急，我正在努力的长金币！" />
+  <lang name="1101" value="别急，金币马上就会有的！" />
+  <lang name="1102" value="臣妾做不到啊！" />
+  <lang name="1103" value="别摇了，没得了。" />
+  <lang name="1104" value="如果你摇我，却没有落金币，只能说明一个问题，就是时间未到。" />
+  <lang name="1105" value="现在的年轻人哟！怎么这么急，我金币都没长就想摇了。" />
+  
+  <lang name="1106" value="如果有来生，要做一棵树，站成永恒，没有悲欢的姿势。" />
+  <lang name="1107" value="摇啊摇，摇到好多金币！" />
+  <lang name="1108" value="亲！如果你充值了，我就变成一棵萌萌哒树，这样你就摇到更多金币了。" />
+  <lang name="1109" value="不喜欢别人摇我，哼！" />
+  <lang name="1110" value="人家明明就可以靠脸吃饭，结果沦落为靠才华。" />
+  <lang name="1111" value="春天在哪里啊，春天在哪里啊，看，我不仅能摇金币，还可以唱歌哟！" />
+  <lang name="1112" value="快点充值提升VIP等级吧！这样我就可以摇出更多金币。" />
+  <lang name="1113" value="偷偷的告诉你一个秘密，如果你充值越多的话，摇的钱就会更多哦！" />
+  <lang name="1114" value="会不会有个笨蛋，听我说一天的话……" />
+  <lang name="1115" value="你说我会不会有一天，下的不是金币，而是石头。" />
+  <lang name="1116" value="年轻人，我给你讲一个悲伤的故事吧，很久很久以前，这里有棵树，他是棵孤独的树。" />
+  <lang name="1117" value="走了多少年，只为寻找一棵开花的树，寻找一段过往，寻找一颗驿动的心。" />
+  <lang name="1118" value="别小看我，我是一棵有故事的树。" />
+  <lang name="1119" value="让我们点起火把，烧死爱情，从此义无反顾，一无所有。" />
+  <lang name="1120" value="你说你马上去充值，我信了，结果你没充，我哭了。" />
+  <lang name="1121" value="突然觉得摇钱树这个名字太俗了，一点都不文艺，要不叫我招财树吧！" />
+  <lang name="1122" value="为什么你总是没有金币的时候才想起我，看来我从来没有走进你的心里。" />
+  <lang name="1123" value="你说你永不充值，我以为你只是开玩笑，可是你没有。" />
+  <lang name="1124" value="如果你充值了，说不定我可以唱首歌给你听，虽然是一首忧伤的歌。" />
+  
+  <lang name="1125" value="唉，年轻人，赚钱不容易啊，省着点花吧！" />
+  <lang name="1126" value="是不是感觉掉的金币有点少，充值吧，这样我就可以长更多的金币。" />
+  <lang name="1127" value="每次掉金币时，哗啦啦的声音真好听。" />
+  
+  <!-- ---------------------兑换物品名称---------------------- -->
+  <lang name="1200" value="120000金币" />
+  <lang name="1201" value="400000金币" />
+  <lang name="1202" value="50元话费" />
+  <lang name="1203" value="100元话费" />
+  <lang name="1204" value="200元话费" />
+  <lang name="1205" value="500元京东卡" />
+  <lang name="1206" value="红米Note" />
+  <lang name="1207" value="1000元京东卡" />
+  <lang name="1208" value="小米4手机" />
+  <lang name="1209" value="Apple iPad mini" />
+  <lang name="1210" value="Apple iPhone6" />
+  <lang name="1211" value="Apple MacBook Air" />
+  <!-------------------------抢红包界面提示信息---------------- -->
+  <lang name="1300" value="双击屏幕可以连跳哦~"/>
+  <lang name="1301" value="微软雅黑"/>
+  <lang name="1302" value="倒计时:"/>
+  <lang name="1303" value="金币:"/>
+  <lang name="1304" value="元宝:"/>
+  <lang name="1305" value="每隔4个小时可以抢一次福袋。VIP玩家所得金币翻倍。"/>
+  <lang name="1306" value="我的天哪，你怎么可以抢这么多！"/>
+  <lang name="1307" value="居然被你抢了这么多，哥们很专业嘛！"/> 
+  <lang name="1308" value="看了你收获蛮多啊，不过下次还可以继续加油！"/>
+  <lang name="1309" value="好吧，我知道你已经尽力了！"/>
+ 
+    <!-------------------------SLWH提示信息---------------- -->
+    <lang name="1400" value=" 网络连接失败，退出游戏。若已压分，分数将自动结算。"/>
+	<lang name="1401" value="房间正在维护中，请稍后。"/>
+	<lang name="1402" value="分数太多请去高级房。"/>
+	<lang name="1403" value="分数不够。"/>
+	<lang name="1404" value="您不是VIP。"/>
+	<lang name="1405" value="您已离开游戏，请重新进入。若已压分，分数将自动结算。"/>
+	<lang name="1406" value="您当前网络不好，请重新进入。"/>
+	<lang name="1407" value="对不起，进入该房间的最低金币为%d，您金币不够。请点击确定，到充值界面充值。"/>
+	<lang name="1408" value="对不起，该房间只有ＶＩＰ玩家才可以进入，您现在还不是ＶＩＰ哦"/>
+	<lang name="1409" value="您当前的筹码不足，请充值"/>
+	
+    <lang name="1411" value="是否返回大厅"/>
+	<lang name="1412" value="是否要退出游戏"/>
+	
+	
+</lang_s>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>images/shak/animal/gezi</string>
+	<string>images/shak/animal/kongque</string>
+	<string>images/shak/animal/laoying</string>
+	<string>images/shak/animal/shayu</string>
+	<string>images/shak/animal/yanzi</string>
+	<string>images/common/animal/houzi</string>
+	<string>images/common/animal/shizi</string>
+	<string>images/common/animal/tuzi</string>
+	<string>images/common/animal/xiongmao</string>
+
+</array>
+</plist>

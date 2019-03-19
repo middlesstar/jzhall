@@ -1,0 +1,159 @@
+#ifndef __CommandDef_H__
+#define __CommandDef_H__
+
+#define MB_VALIDATE_FLAGS                   0x01        //效验密保
+#define LOW_VER_VALIDATE_FLAGS              0x02        //效验低版本
+
+//大协议号
+enum eCommandType
+{
+	HALL_MDM_GP_LOGON		=		1,
+	HALL_MDM_GP_SERVER_LIST =		2,
+
+	HALL_MDM_GP_SERVICE		=		3,
+
+	HALL_MDM_GP_WEBOP		=		300,
+
+	COMMAND_MAX
+};
+
+//小协议号
+enum eSubCommandType
+{
+	HALL_SUB_GP_SERVERINFO = 1,				   //请求服务器列表type和kind
+	HALL_SUB_GP_GAMESERVER = 2,				   //请求房间信息gameserver
+
+	HALL_DBR_GP_LOGON_ACCOUNTS = 2,
+	HALL_SUB_GP_REGISTER_ACCOUNTS = 3,
+	HALL_SUB_GP_VISITOR_ACCOUNT = 5,           //
+
+	HALL_SUB_GR_LOGON_QUICK = 7,				//游客登录
+
+	HALL_SUB_GP_LOGON_SUCCESS = 100,
+	HALL_SUB_GP_LIST_TYPE = 100,
+	HALL_SUB_GP_LIST_KIND = 101,
+	HALL_SUB_GP_LOGON_FAILURE = 101,
+	HALL_SUB_GP_LIST_NODE = 102,
+	HALL_SUB_GP_LOGON_FINISH = 102,
+	HALL_SUB_GP_LIST_PAGE = 103,
+	HALL_SUB_GP_LIST_SERVER = 104,
+
+	HALL_SUB_GP_USER_FACE_INFO = 200,	//服务器回复修改头像
+	HALL_SUB_GP_SYSTEM_FACE_INFO = 201,		//请求修改头像
+
+	HALL_SUB_WEB_RECHARGERSP = 253,			//充值成功后返回的回复
+
+	HALL_SUB_GP_GET_RANK = 267,				//请求排行榜
+	HALL_SUB_GP_GET_RANK_RESULT = 268,
+
+	HALL_SUB_GP_HALL_INFO = 300,		//登录时候返回大厅的额外信息
+
+	HALL_SUB_GP_QUERY_INSURE_INFO = 404,	//查询银行
+	HALL_SUB_GR_USER_INSURE_INFO = 100,		//银行资料
+
+	HALL_SUB_GP_USER_SAVE_SCORE = 400,			//存款操作
+	HALL_SUB_GP_USER_TAKE_SCORE = 401,			//取款操作
+	HALL_SUB_GR_USER_INSURE_SUCCESS = 405,		//存款成功
+	HALL_SUB_GP_USER_INSURE_FAILURE = 406,		//存款失败
+
+	HALL_SUB_GP_MONEYTREE_REQ = 736,		//摇钱树请求
+	HALL_SUB_GP_MONEYTREE_RSP = 737,		//摇钱树回复
+
+	HALL_SUB_GP_HALL_MODIFLYUSER_REQ = 746,		//更换昵称请求
+	HALL_SUB_GP_HALL_MODIFLYUSER_RSP = 747,		//更换昵称回复
+
+	HALL_SUB_GP_DAILYLOTTERY_GET = 738,         //请求每日抽奖
+	HALL_SUB_GP_DAILYLOTTERY_GET_RESULT = 739,	//返回抽奖结果
+
+	HALL_SUB_GP_HALLGOODS_GET = 742,			//请求兑换
+	HALL_SUB_GP_HALLGOODS_GET_RESULT = 743,		//返回兑换信息
+
+	HALL_SUB_GP_HALL_JIUJIJIN_REQ = 748,		//救济金请求
+	HALL_SUB_GP_HALL_JIUJIJIN_RSP = 749,		//救济金返回
+
+	HALL_SUB_GP_HALL_SIGNDAY_REQ = 750,        //每日签到请求
+	HALL_SUB_GP_HALL_SIGNDAY_RSP = 751,        //每日签到返回
+
+	HALL_SUB_GP_HALL_DXREARD_REQ = 752,			//请求查询兑奖记录
+	HALL_SUB_GP_HALL_DXREARD_RSP = 753,			//查询兑奖记录返回
+
+	HALL_SUB_GP_HALL_GETEAMILL_REQ = 754,		//请求查询邮件列表
+	HALL_SUB_GP_HALL_GETEAMILL_RSP = 755,		//返回邮件列表
+
+	HALL_SUB_GP_HALL_GIVECHUANPIAO_REQ = 758,	//请求赠送船票
+	HALL_SUB_GP_HALL_GIVECHUANPIAO_RSP = 759,	//返回赠送船票结果
+
+	HALL_SUB_GP_HALL_GETLIPIN_REQ = 760,		//请求礼品卡号得到奖品
+	HALL_SUB_GP_HALL_GETLIPIN_RSP = 761,
+
+	HALL_SUB_GP_HALL_SHARESUCESS_REQ = 762,		//请求分享成功后调用；
+	HALL_SUB_GP_HALL_SHARESUCESS_RSP = 763,		//分享后返回
+
+	HALL_SUB_GP_HALL_GETSHARE_REQ = 764,		//领取分享口令
+	HALL_SUB_GP_HALL_GETSHARE_RSP = 765,		//分享后返回
+
+	HALL_SUB_GP_GRABRED_REQ = 766,			//活动 抢福袋请求
+	HALL_SUB_GP_GRABRED_rsp = 767,			//活动 抢福袋 返回
+
+	HALL_SUB_GP_HALL_SHOUYI_REQ = 768,			//请求红包收益操作
+	HALL_SUB_GP_HALL_SHOUYI_RSP = 769,			//红包收益操作返回
+	HALL_SUB_GP_HALL_SHOUYIRANK_RSP = 770,		//收益排行榜返回
+
+	HALL_SUB_GP_HALL_BINDACCOUNT_REQ = 771,		//请求绑定账号
+	HALL_SUB_GP_HALL_BINDACCOUNT_RSP = 772,		//请求账号绑定返回
+
+	HALL_SUB_GP_HALL_HAOPING_REQ = 773,			//请求好评
+	HALL_SUB_GP_HALL_HAOPING_RSP = 774,			//请求好评返回
+
+	HALL_SUB_GP_HALL_SHAREREDCOUNT_REQ = 775,	//请求查询分享次数
+	HALL_SUB_GP_HALL_SHAREREDCOUNT_RSP = 776,	//返回分享次数
+
+	HALL_SUB_GP_HALL_GETEMAILATT_REQ = 777,		//领取邮件中附件内容
+	HALL_SUB_GP_HALL_GETEMAILATT_RSP = 778,		//领取邮件中附件返回
+
+	HALL_SUB_CHATMSG_REQ = 779,					//请求聊天
+	HALL_SUB_CHATMSG_RSP = 780,					//聊天回复
+
+	HALL_SUB_CHATHONGBAO_REQ = 781,				//请求发送红包,服务器返回780
+
+	HALL_SUB_CHATGETHONGBAO_REQ = 782,			//请求领取红包
+	HALL_SUB_CHATGETHONGBAO_RSP = 783,			//领取红包返回
+
+	HALL_SUB_REPLACEROOM_REQ = 784,				//切换房间,服务器无返回
+
+	HALL_SUB_NETFLUSHUSER_REQ = 785,			//请求刷新用户信息协议
+	HALL_SUB_NETFLUSHUSER_RSP = 786,			//返回
+
+	HALL_SUB_HEART_REQ = 787,				//心跳协议
+	HALL_SUB_HEART_RSP = 788,				//心跳协议返回
+
+	HALL_SUB_GP_OPERATE_SUCCESS = 900,		//操作成功
+	HALL_SUB_GP_OPERATE_FAILURE = 901,		//操作失败
+	
+
+	HALL_SUB_COMMAND_MAX
+};
+
+
+
+//todosl
+
+#define      SUB_GP_UPDATE_NOTIFY		200									//升级提示
+
+
+
+
+
+
+
+
+
+/*-------------------------水浒传---------------------*/
+
+//小协议号
+enum eSubCommandType_SHZ{
+	SUB_S_LOTTERYEXP_SHZ = 121,
+	SUB_C_LOTTERYEXP_SHZ = 219,
+};
+#endif
+

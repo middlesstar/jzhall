@@ -1,0 +1,24 @@
+﻿<!-- plist 资源加载 -->
+<array>
+	<!-- 游戏场景资源 -->
+	<string>mainscene/shz_game</string>
+	<string>Game/bibei/boss_1</string>
+	<string>Game/bibei/boss_2</string>
+	<string>Game/bibei/boss_3</string>	
+	<string>Game/bibei/boss_4</string>
+	<string>Game/bibei/boss_5</string>	
+	<string>Game/bg</string>
+	<string>Game/bg1</string>
+	<string>Game/view</string>
+	<string>Game/type/type_1</string>
+	<string>Game/type/type_2</string>
+	<string>Game/type/type_3</string>
+	<string>Game/type/type_4</string>
+	<string>Game/type/type_5</string>
+	<string>Game/type/type_6</string>
+	<string>Game/type/type_7</string>
+	<string>Game/type/type_8</string>
+	<string>Game/type/type_9</string>
+	<string>Game/type/type_10</string>
+  <string>okcancel</string>
+</array>

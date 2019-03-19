@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>images/common/notice/about_vip.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{753,938},{156,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{156,68}</string>
+			</dict>
+			<key>images/common/notice/notice_beauty.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{909,748},{210,312}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{210,312}</string>
+			</dict>
+			<key>images/common/notice/notice_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{909,0},{748,498}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{748,498}</string>
+			</dict>
+			<key>images/common/notice/notice_big.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{851,565}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{851,565}</string>
+			</dict>
+			<key>images/common/notice/notice_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{847,0},{58,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{58,59}</string>
+			</dict>
+			<key>images/common/notice/notice_congratulation.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,851},{436,138}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{436,138}</string>
+			</dict>
+			<key>images/common/notice/notice_light.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1407,0},{386,386}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{386,386}</string>
+			</dict>
+			<key>images/common/notice/notice_little.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{565,156},{527,341}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{527,341}</string>
+			</dict>
+			<key>images/common/notice/notice_no.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{779,0},{156,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{156,68}</string>
+			</dict>
+			<key>images/common/notice/notice_ribbon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{436,851},{343,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{343,87}</string>
+			</dict>
+			<key>images/common/notice/notice_ribbon2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{436,938},{317,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{317,77}</string>
+			</dict>
+			<key>images/common/notice/notice_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{847,58},{75,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{75,38}</string>
+			</dict>
+			<key>images/common/notice/notice_yes.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{779,683},{156,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{156,68}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>common_notice.png</string>
+			<key>realTextureFileName</key>
+			<string>common_notice.png</string>
+			<key>size</key>
+			<string>{2048,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

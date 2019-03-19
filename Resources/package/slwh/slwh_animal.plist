@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>game/animals_small/as_all.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_four_green.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,68},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_four_red.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,136},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_four_yelolow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{65,0},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_green_lion.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{65,68},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_green_monkey.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{65,136},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_green_panda.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{130,0},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_green_rabbit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{130,68},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_red_lion.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{130,136},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_red_monkey.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{195,0},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_red_panda.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{195,68},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_red_rabbit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{195,136},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_three_lion.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{260,0},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_three_monkey.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{328,0},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_three_panda.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{396,0},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_three_rabbit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{260,65},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_yellow_lion.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{260,133},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_yellow_monkey.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{325,65},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_yellow_panda.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{393,65},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+			<key>game/animals_small/as_yellow_rabbit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{325,130},{65,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,68}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>slwh_animal.png</string>
+			<key>realTextureFileName</key>
+			<string>slwh_animal.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

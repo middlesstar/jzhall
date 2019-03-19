@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>images/common/animation/gold1/gold1_0</string>
+	<string>images/common/animation/gold1/gold1_1</string>
+	<string>images/common/animation/gold1/gold1_2</string>
+	<string>images/common/animation/gold1/gold1_3</string>
+	<string>images/common/animation/gold1/gold1_4</string>
+	<string>images/common/animation/gold1/gold1_5</string>
+	<string>images/common/animation/gold1/gold1_6</string>
+	<string>images/common/animation/gold2/bet_gold2</string>
+	<string>images/common/animation/gold2/linght</string>
+	<string>images/common/animation/gold3/gold3</string>
+	
+	
+	<string>images/common/waiting/0</string>
+	<string>images/common/waiting/1</string>
+	<string>images/common/waiting/2</string>
+	<string>images/common/waiting/3</string>
+	<string>images/common/waiting/4</string>
+	<string>images/common/waiting/5</string>
+	<string>images/common/waiting/6</string>
+	<string>images/common/waiting/7</string>
+	<string>images/common/waiting/8</string>
+	<string>images/common/waiting/9</string>
+	<string>images/common/waiting/10</string>
+	<string>images/common/waiting/11</string>
+	<string>images/common/waiting/12</string>
+	
+	
+	<string>slwh/game/forest_room/bg_logo</string>
+	<string>slwh/game/forest_room/fr_bg</string>
+	<string>slwh/game/forest_room/fr_gold</string>
+	<string>slwh/game/forest_room/fr_ingot</string>
+	<string>slwh/game/forest_room/hall_black</string>
+	<string>slwh/game/forest_room/hall_lion</string>
+	<string>slwh/game/forest_room/hall_panda</string>
+	<string>slwh/game/forest_room/hall_rabbit</string>
+	<string>slwh/game/forest_room/hall_vip</string>
+	<string>slwh/game/forest_room/progressbar0</string>
+	<string>slwh/game/forest_room/progressbar1</string>
+	
+
+	<string>slwh/game/game_scene/state/dot</string>
+	<string>slwh/game/game_scene/state/state_display1</string>
+	<string>slwh/game/game_scene/state/state_display2</string>
+	<string>slwh/game/game_scene/state/state_display3</string>
+	<string>slwh/game/game_scene/state/state_display4</string>
+	<string>slwh/game/game_scene/state/state_display5</string>
+	
+	<string>slwh/game/game_scene/bet_animal1</string>
+	<string>slwh/game/game_scene/bet_animal2</string>
+	<string>slwh/game/game_scene/bet_animal3</string>
+	<string>slwh/game/game_scene/bet_animal4</string>
+	<string>slwh/game/game_scene/bet_bet</string>
+	<string>slwh/game/game_scene/bet_btn1</string>
+	<string>slwh/game/game_scene/bet_btn2</string>
+	<string>slwh/game/game_scene/bet_btn3</string>
+	<string>slwh/game/game_scene/bet_btn4</string>
+	<string>slwh/game/game_scene/bet_lost</string>
+	<string>slwh/game/game_scene/bet_points</string>
+	<string>slwh/game/game_scene/bet_win</string>
+	<string>slwh/game/game_scene/gs_close</string>
+	<string>slwh/game/game_scene/gs_game_rule</string>
+	<string>slwh/game/game_scene/gs_progressive</string>
+	<string>slwh/game/game_scene/gs_quit</string>
+	<string>slwh/game/game_scene/gs_recharge</string>
+	<string>slwh/game/game_scene/gs_result_frame</string>
+	<string>slwh/game/game_scene/gs_result_he</string>
+	<string>slwh/game/game_scene/gs_result_xian</string>
+	<string>slwh/game/game_scene/gs_result_zhuang</string>
+	<string>slwh/game/game_scene/gs_rule</string>
+	<string>slwh/game/game_scene/gs_set</string>
+	<string>slwh/game/game_scene/gs_tip_bg</string>
+	<string>slwh/game/game_scene/gs_tip0</string>
+	<string>slwh/game/game_scene/gs_tip3</string>
+	<string>slwh/game/game_scene/gs_tip4</string>
+	<string>slwh/game/game_scene/gs_tip5</string>
+	<string>slwh/game/game_scene/gs_tip6</string>
+	<string>slwh/game/game_scene/gs_tip7</string>
+	<string>slwh/game/game_scene/gs_tip8</string>
+	<string>slwh/game/game_scene/gs_tuzi</string>
+	<string>slwh/game/game_scene/gs_win</string>
+	<string>slwh/game/game_scene/gs_win_light</string>
+
+	
+	<string>slwh/game/game_results/gr_bet_fram0</string>
+	<string>slwh/game/game_results/gr_bet_fram1</string>
+	<string>slwh/game/game_results/gr_bet_light</string>
+	<string>slwh/game/game_results/gr_blue</string>
+	<string>slwh/game/game_results/gr_cjll</string>
+	<string>slwh/game/game_results/gr_dmg</string>
+	<string>slwh/game/game_results/gr_draw_panel</string>
+	<string>slwh/game/game_results/gr_draw_title</string>
+	<string>slwh/game/game_results/gr_dsx</string>
+	<string>slwh/game/game_results/gr_dsy</string>
+	<string>slwh/game/game_results/gr_he</string>
+	<string>slwh/game/game_results/gr_lottery_</string>
+	<string>slwh/game/game_results/gr_my_bet</string>
+	<string>slwh/game/game_results/gr_prize_1</string>
+	<string>slwh/game/game_results/gr_prize_2</string>
+	<string>slwh/game/game_results/gr_prize_3</string>
+	<string>slwh/game/game_results/gr_prize_4</string>
+	<string>slwh/game/game_results/gr_prize_6</string>
+	<string>slwh/game/game_results/gr_prize_7</string>
+	<string>slwh/game/game_results/gr_prize_9</string>
+	<string>slwh/game/game_results/gr_prize_10</string>
+	<string>slwh/game/game_results/gr_prize_11</string>
+	<string>slwh/game/game_results/gr_prize_12</string>
+	<string>slwh/game/game_results/gr_prize_14</string>
+	<string>slwh/game/game_results/gr_prize_15</string>
+	<string>slwh/game/game_results/gr_prize_101</string>
+	<string>slwh/game/game_results/gr_prize_102</string>
+	<string>slwh/game/game_results/gr_prize_103</string>
+	<string>slwh/game/game_results/gr_prize_104</string>
+	<string>slwh/game/game_results/gr_prize_106</string>
+	<string>slwh/game/game_results/gr_prize_107</string>
+	<string>slwh/game/game_results/gr_prize_109</string>
+	<string>slwh/game/game_results/gr_prize_110</string>
+	<string>slwh/game/game_results/gr_prize_111</string>
+	<string>slwh/game/game_results/gr_prize_112</string>
+	<string>slwh/game/game_results/gr_prize_114</string>
+	<string>slwh/game/game_results/gr_prize_115</string>
+	<string>slwh/game/game_results/gr_prize_cp</string>
+	<string>slwh/game/game_results/gr_prize_goldcp</string>
+	<string>slwh/game/game_results/gr_prize_goldyb</string>
+	<string>slwh/game/game_results/gr_prize_yb</string>
+	<string>slwh/game/game_results/gr_result</string>
+	<string>slwh/game/game_results/gr_score</string>
+	<string>slwh/game/game_results/gr_slf</string>
+	<string>slwh/game/game_results/gr_text_0</string>
+	<string>slwh/game/game_results/gr_text_1</string>
+	<string>slwh/game/game_results/gr_text_2</string>
+	<string>slwh/game/game_results/gr_text_3</string>
+	<string>slwh/game/game_results/gr_x</string>
+	<string>slwh/game/game_results/gr_xian</string>
+	<string>slwh/game/game_results/gr_xycj</string>
+	<string>slwh/game/game_results/gr_zhuang</string>
+
+	
+	
+	<string>slwh/Model/10/1</string>
+	<string>slwh/Model/10/2</string>
+	<string>slwh/Model/10/3</string>
+	<string>slwh/Model/10/4</string>
+	<string>slwh/Model/10/5</string>
+	<string>slwh/Model/10/6</string>
+	<string>slwh/Model/10/7</string>
+	<string>slwh/Model/10/8</string>
+	<string>slwh/Model/10/9</string>
+	<string>slwh/Model/10/10</string>
+	
+	<string>slwh/Model/DMG/DMG0</string>
+	<string>slwh/Model/DMG/DMG1</string>
+	<string>slwh/Model/DMG/DMG2</string>
+	<string>slwh/Model/DMG/DMG3</string>
+	<string>slwh/Model/DMG/DMG4</string>
+	<string>slwh/Model/DMG/DMG5</string>
+	<string>slwh/Model/DMG/DMG6</string>
+	<string>slwh/Model/DMG/DMG7</string>
+	<string>slwh/Model/DMG/DMG8</string>
+	<string>slwh/Model/DMG/DMG9</string>
+	<string>slwh/Model/DMG/DMG10</string>
+	<string>slwh/Model/DMG/DMG11</string>
+	
+<!-- 	<string>slwh/Model/Back0</string>
+	<string>slwh/Model/Back1</string>
+	<string>slwh/Model/Point</string>
+	<string>slwh/Model/ptGreen</string>
+	<string>slwh/Model/ptRed</string>
+	<string>slwh/Model/ptYellow</string>
+	<string>slwh/Model/S</string>
+	<string>slwh/Model/SceneLight0</string>
+	<string>slwh/Model/SceneLight1</string>
+	<string>slwh/Model/SceneLight2</string>
+	<string>slwh/Model/SceneLight3</string>
+	<string>slwh/Model/SceneLight4</string>
+	<string>slwh/Model/SceneLight5</string>
+	<string>slwh/Model/SceneLight6</string>
+	<string>slwh/Model/seatBlue</string>
+	<string>slwh/Model/seatGreen</string>
+	<string>slwh/Model/seatRed</string>
+	<string>slwh/Model/seatYellow</string>
+	<string>slwh/Model/shizi</string>
+	<string>slwh/Model/SphereGreen</string>
+	<string>slwh/Model/SphereRed</string>
+	<string>slwh/Model/SphereYellow</string>
+	<string>slwh/Model/Sphere</string>
+	<string>slwh/Model/Stage</string>
+	<string>slwh/Model/tuzi</string>
+	<string>slwh/Model/xiongmao</string> -->
+
+</array>
+</plist>

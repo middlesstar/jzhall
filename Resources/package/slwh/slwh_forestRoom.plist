@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>game/forest_room/bg_logo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,740},{449,207}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{449,207}</string>
+			</dict>
+			<key>game/forest_room/fr_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{1074,740}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1074,740}</string>
+			</dict>
+			<key>game/forest_room/fr_gold.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{507,740},{238,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{238,42}</string>
+			</dict>
+			<key>game/forest_room/fr_ingot.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{507,782},{238,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{238,42}</string>
+			</dict>
+			<key>game/forest_room/hall_black.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{507,824},{238,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{238,34}</string>
+			</dict>
+			<key>game/forest_room/hall_lion.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{745,740},{276,272}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{276,272}</string>
+			</dict>
+			<key>game/forest_room/hall_panda.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1017,740},{276,272}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{276,272}</string>
+			</dict>
+			<key>game/forest_room/hall_rabbit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1074,0},{276,272}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{276,272}</string>
+			</dict>
+			<key>game/forest_room/hall_vip.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{449,740},{199,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{199,58}</string>
+			</dict>
+			<key>game/forest_room/loading_circle.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{507,858},{88,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{88,88}</string>
+			</dict>
+			<key>game/forest_room/progressbar0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,947},{624,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{624,26}</string>
+			</dict>
+			<key>game/forest_room/progressbar1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,973},{624,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{624,26}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>slwh_forestRoom.png</string>
+			<key>realTextureFileName</key>
+			<string>slwh_forestRoom.png</string>
+			<key>size</key>
+			<string>{2048,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

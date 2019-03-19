@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>images/common/waiting/0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{448,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{448,74}</string>
+			</dict>
+			<key>images/common/waiting/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{74,0},{448,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{448,74}</string>
+			</dict>
+			<key>images/common/waiting/10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{148,0},{448,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{448,74}</string>
+			</dict>
+			<key>images/common/waiting/11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{222,0},{448,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{448,74}</string>
+			</dict>
+			<key>images/common/waiting/12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{296,0},{448,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{448,74}</string>
+			</dict>
+			<key>images/common/waiting/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{370,0},{448,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{448,74}</string>
+			</dict>
+			<key>images/common/waiting/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{444,0},{448,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{448,74}</string>
+			</dict>
+			<key>images/common/waiting/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{518,0},{448,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{448,74}</string>
+			</dict>
+			<key>images/common/waiting/5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{518,74},{448,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{448,74}</string>
+			</dict>
+			<key>images/common/waiting/6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{518,148},{448,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{448,74}</string>
+			</dict>
+			<key>images/common/waiting/7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{518,222},{448,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{448,74}</string>
+			</dict>
+			<key>images/common/waiting/8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{518,296},{448,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{448,74}</string>
+			</dict>
+			<key>images/common/waiting/9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{518,370},{448,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{448,74}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>common_waiting.png</string>
+			<key>realTextureFileName</key>
+			<string>common_waiting.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>images/shak/result/result_bling.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,586},{756,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{756,370}</string>
+			</dict>
+			<key>images/shak/result/result_display.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{970,0},{84,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{84,35}</string>
+			</dict>
+			<key>images/shak/result/result_fram0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,477},{104,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,104}</string>
+			</dict>
+			<key>images/shak/result/result_fram1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,581},{104,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,104}</string>
+			</dict>
+			<key>images/shak/result/result_light0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,685},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+			<key>images/shak/result/result_lost.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{885,358},{228,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{228,65}</string>
+			</dict>
+			<key>images/shak/result/result_ring.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{860,586},{99,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{99,99}</string>
+			</dict>
+			<key>images/shak/result/result_screen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{798,427}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{798,427}</string>
+			</dict>
+			<key>images/shak/result/result_win.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{885,0},{358,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{358,85}</string>
+			</dict>
+			<key>images/shak/result/result_win1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{798,0},{477,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{477,87}</string>
+			</dict>
+			<key>images/shak/result/result_win2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{970,84},{61,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{61,28}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>shark_result.png</string>
+			<key>realTextureFileName</key>
+			<string>shark_result.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

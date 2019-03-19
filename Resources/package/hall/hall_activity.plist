@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>images/hall/activity/active_btn1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{747,0},{95,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{95,96}</string>
+			</dict>
+			<key>images/hall/activity/active_left.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{636,0},{111,443}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{111,443}</string>
+			</dict>
+			<key>images/hall/activity/active_luck.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{636,442}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{636,442}</string>
+			</dict>
+			<key>images/hall/activity/active_rob.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{843,0},{142,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{142,54}</string>
+			</dict>
+			<key>images/hall/activity/active_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{843,54},{129,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{129,45}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>hall_activity.png</string>
+			<key>realTextureFileName</key>
+			<string>hall_activity.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

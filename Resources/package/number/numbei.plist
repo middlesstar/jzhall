@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>images/number/number_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{176,180},{190,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,22}</string>
+			</dict>
+			<key>images/number/number_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{176,202},{170,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{170,21}</string>
+			</dict>
+			<key>images/number/number_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{176,223},{156,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{156,22}</string>
+			</dict>
+			<key>images/number/number_13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{140,0},{250,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{250,36}</string>
+			</dict>
+			<key>images/number/number_14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{346,202},{165,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{165,21}</string>
+			</dict>
+			<key>images/number/number_15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{332,223},{150,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,20}</string>
+			</dict>
+			<key>images/number/number_16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{125,0},{110,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,14}</string>
+			</dict>
+			<key>images/number/number_17.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{366,21},{150,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,19}</string>
+			</dict>
+			<key>images/number/number_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{40,0},{240,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,27}</string>
+			</dict>
+			<key>images/number/number_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{176,0},{180,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{180,24}</string>
+			</dict>
+			<key>images/number/number_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{67,0},{230,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{230,28}</string>
+			</dict>
+			<key>images/number/number_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{366,0},{140,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,21}</string>
+			</dict>
+			<key>images/number/number_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{240,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,40}</string>
+			</dict>
+			<key>images/number/number_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{366,171},{130,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,18}</string>
+			</dict>
+			<key>images/number/number_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{95,0},{190,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{190,30}</string>
+			</dict>
+			<key>images/number/number_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,240},{140,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,16}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>numbei.png</string>
+			<key>realTextureFileName</key>
+			<string>numbei.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

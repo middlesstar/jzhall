@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>images/shak/vip/frame0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{94,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,98}</string>
+			</dict>
+			<key>images/shak/vip/frame1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,98},{94,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,98}</string>
+			</dict>
+			<key>images/shak/vip/frame10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,196},{94,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,98}</string>
+			</dict>
+			<key>images/shak/vip/frame2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,294},{94,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,98}</string>
+			</dict>
+			<key>images/shak/vip/frame3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,392},{94,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,98}</string>
+			</dict>
+			<key>images/shak/vip/frame4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{94,0},{94,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{94,98}</string>
+			</dict>
+			<key>images/shak/vip/frame5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{192,0},{94,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{94,98}</string>
+			</dict>
+			<key>images/shak/vip/frame6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{290,0},{94,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{94,98}</string>
+			</dict>
+			<key>images/shak/vip/frame7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{388,0},{94,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{94,98}</string>
+			</dict>
+			<key>images/shak/vip/frame8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{94,94},{94,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,98}</string>
+			</dict>
+			<key>images/shak/vip/frame9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{94,192},{94,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,98}</string>
+			</dict>
+			<key>images/shak/vip/vip_vip.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{57,490},{40,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,21}</string>
+			</dict>
+			<key>images/shak/vip/vip_vip0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,490},{57,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{57,21}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>shark_vip.png</string>
+			<key>realTextureFileName</key>
+			<string>shark_vip.png</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

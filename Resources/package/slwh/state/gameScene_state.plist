@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>game/game_scene/state/state_display1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,58},{101,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{101,29}</string>
+			</dict>
+			<key>game/game_scene/state/state_display2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,87},{101,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{101,29}</string>
+			</dict>
+			<key>game/game_scene/state/state_display3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,0},{101,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{101,29}</string>
+			</dict>
+			<key>game/game_scene/state/state_display4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,29},{101,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{101,29}</string>
+			</dict>
+			<key>game/game_scene/state/state_display5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{101,58},{101,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{101,29}</string>
+			</dict>
+			<key>game/game_scene/state/state_frame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{58,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{58,54}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>gameScene_state.png</string>
+			<key>realTextureFileName</key>
+			<string>gameScene_state.png</string>
+			<key>size</key>
+			<string>{256,128}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>128</integer>
+		</dict>
+	</dict>
+</plist>

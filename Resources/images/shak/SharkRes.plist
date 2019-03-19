@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>images/shak/bet/bet_animal1</string>
+	<string>images/shak/bet/bet_animal2</string>
+	<string>images/shak/bet/bet_animal3</string>
+	<string>images/shak/bet/bet_animal4</string>
+	<string>images/shak/bet/bet_bet1</string>
+	<string>images/shak/bet/bet_bet3</string>
+	<string>images/shak/bet/bet_bet4</string>
+	<string>images/shak/bet/bet_black</string>
+	<string>images/shak/bet/bet_btn1</string>
+	<string>images/shak/bet/bet_btn2</string>
+	<string>images/shak/bet/bet_btn3</string>
+	<string>images/shak/bet/bet_btn4</string>
+	<string>images/shak/bet/bet_btn7</string>
+	<string>images/shak/bet/bet_btn8</string>
+	<string>images/shak/bet/bet_btn9</string>
+	<string>images/shak/bet/bet_btn10</string>
+	<string>images/shak/bet/bet_btn101</string>
+	<string>images/shak/bet/bet_btn102</string>
+	<string>images/shak/bet/bet_btn103</string>
+	<string>images/shak/bet/bet_btn104</string>
+	<string>images/shak/bet/bet_glory</string>
+	<string>images/shak/bet/bet_gold1</string>
+	<string>images/shak/bet/bet_gold2</string>
+	<string>images/shak/bet/bet_he</string>
+	<string>images/shak/bet/bet_last</string>
+	<string>images/shak/bet/bet_left</string>
+	<string>images/shak/bet/bet_light</string>
+	<string>images/shak/bet/bet_line</string>
+	<string>images/shak/bet/bet_lost</string>
+	<string>images/shak/bet/bet_online</string>
+	<string>images/shak/bet/bet_points</string>
+	<string>images/shak/bet/bet_red</string>
+	<string>images/shak/bet/bet_right</string>
+	<string>images/shak/bet/bet_score</string>
+	<string>images/shak/bet/bet_up_1</string>
+	<string>images/shak/bet/bet_up_2</string>
+	<string>images/shak/bet/bet_up_3</string>
+	<string>images/shak/bet/bet_up_4</string>
+	<string>images/shak/bet/bet_up_5</string>
+	<string>images/shak/bet/bet_up_6</string>
+	<string>images/shak/bet/bet_up_7</string>
+	<string>images/shak/bet/bet_up_8</string>
+	<string>images/shak/bet/bet_up_9</string>
+	<string>images/shak/bet/bet_up_10</string>
+	<string>images/shak/bet/bet_up_11</string>
+	<string>images/shak/bet/bet_up_12</string>
+	<string>images/shak/bet/bet_up_13</string>
+	<string>images/shak/bet/bet_up_14</string>
+	<string>images/shak/bet/bet_up_15</string>
+	<string>images/shak/bet/bet_up_101</string>
+	<string>images/shak/bet/bet_up_102</string>
+	<string>images/shak/bet/bet_up_103</string>
+	<string>images/shak/bet/bet_up_104</string>
+	<string>images/shak/bet/bet_up_105</string>
+	<string>images/shak/bet/bet_up_106</string>
+	<string>images/shak/bet/bet_up_107</string>
+	<string>images/shak/bet/bet_up_108</string>
+	<string>images/shak/bet/bet_win</string>
+	<string>images/shak/bet/bet_up_zhuang</string>
+	
+	<string>images/shak/game_scence/bet_light</string>
+	<string>images/shak/game_scence/gs_animal1</string>
+	<string>images/shak/game_scence/gs_animal2</string>
+	<string>images/shak/game_scence/gs_animal3</string>
+	<string>images/shak/game_scence/gs_animal4</string>
+	<string>images/shak/game_scence/gs_bg0</string>
+	<string>images/shak/game_scence/gs_black</string>
+	<string>images/shak/game_scence/gs_blast</string>
+	<string>images/shak/game_scence/gs_box</string>
+	<string>images/shak/game_scence/gs_btn_0</string>
+	<string>images/shak/game_scence/gs_btn_0_1</string>
+	<string>images/shak/game_scence/gs_btn_1</string>
+	<string>images/shak/game_scence/gs_btn_3</string>
+	<string>images/shak/game_scence/gs_btn_4</string>
+	<string>images/shak/game_scence/gs_btn_5</string>
+	<string>images/shak/game_scence/gs_btn_6</string>
+	<string>images/shak/game_scence/gs_btn_6_1</string>
+	<string>images/shak/game_scence/gs_btn_7</string>
+	<string>images/shak/game_scence/gs_caijin</string>
+	<string>images/shak/game_scence/gs_clock</string>
+	<string>images/shak/game_scence/gs_colorful</string>
+	<string>images/shak/game_scence/gs_dove</string>
+	<string>images/shak/game_scence/gs_eagle</string>
+	<string>images/shak/game_scence/gs_frame</string>
+	<string>images/shak/game_scence/gs_gold</string>
+	<string>images/shak/game_scence/gs_goldshark</string>
+	<string>images/shak/game_scence/gs_handsel</string>
+	<string>images/shak/game_scence/gs_handsel2</string>
+	<string>images/shak/game_scence/gs_left_btn</string>
+	<string>images/shak/game_scence/gs_light</string>
+	<string>images/shak/game_scence/gs_line</string>
+	<string>images/shak/game_scence/gs_luckytime</string>
+	<string>images/shak/game_scence/gs_mine</string>
+	<string>images/shak/game_scence/gs_mine2</string>
+	<string>images/shak/game_scence/gs_multiply</string>
+	<string>images/shak/game_scence/gs_peacock</string>
+	<string>images/shak/game_scence/gs_recharge</string>
+	<string>images/shak/game_scence/gs_screen</string>
+	<string>images/shak/game_scence/gs_selected1</string>
+	<string>images/shak/game_scence/gs_selected2</string>
+	<string>images/shak/game_scence/gs_selected3</string>
+	<string>images/shak/game_scence/gs_selected4</string>
+	<string>images/shak/game_scence/gs_silver</string>
+	<string>images/shak/game_scence/gs_silvershark</string>
+	<string>images/shak/game_scence/gs_swallow</string>
+	<string>images/shak/game_scence/gs_tickets</string>
+	<string>images/shak/game_scence/gs_tickets2</string>
+	<string>images/shak/game_scence/gs_tuzi</string>
+	<string>images/shak/game_scence/gs_yellow</string>
+	<string>images/shak/game_scence/gs_yuanbao</string>
+	<string>images/shak/game_scence/gs_yuanbao2</string>
+	
+	<string>images/shak/new_animals/na_birds</string>
+	<string>images/shak/new_animals/na_dove</string>
+	<string>images/shak/new_animals/na_eagle</string>
+	<string>images/shak/new_animals/na_mammalian</string>
+	<string>images/shak/new_animals/na_peacock</string>
+	<string>images/shak/new_animals/na_silver</string>
+	<string>images/shak/new_animals/na_swallow</string>
+	
+	<string>images/shak/result/result_bling</string>
+	<string>images/shak/result/result_display</string>
+	<string>images/shak/result/result_fram0</string>
+	<string>images/shak/result/result_fram1</string>
+	<string>images/shak/result/result_light0</string>
+	<string>images/shak/result/result_lost</string>
+	<string>images/shak/result/result_ring</string>
+	<string>images/shak/result/result_screen</string>
+	<string>images/shak/result/result_win</string>
+	<string>images/shak/result/result_win1</string>
+	<string>images/shak/result/result_win2</string>
+
+	
+	
+	<string>images/shak/right_menu/rm_bg</string>
+	<string>images/shak/right_menu/rm_btn1</string>
+	<string>images/shak/right_menu/rm_btn2</string>
+	<string>images/shak/right_menu/rm_btn3</string>
+	<string>images/shak/right_menu/rm_btn4</string>
+	<string>images/shak/right_menu/rm_left</string>
+	<string>images/shak/right_menu/rm_right</string>
+
+	
+	
+	<string>images/shak/selectRoom/logo</string>
+	<string>images/shak/selectRoom/sr_back</string>
+	<string>images/shak/selectRoom/sr_bg</string>
+	<string>images/shak/selectRoom/sr_gold</string>
+	<string>images/shak/selectRoom/sr_ingot</string>
+	<string>images/shak/selectRoom/sr_limit</string>
+	<string>images/shak/selectRoom/sr_limit3</string>
+	<string>images/shak/selectRoom/sr_recharge</string>
+	<string>images/shak/selectRoom/sr_room1</string>
+	<string>images/shak/selectRoom/sr_room2</string>
+	<string>images/shak/selectRoom/sr_room3</string>
+	<string>images/shak/selectRoom/sr_rule</string>
+	<string>images/shak/selectRoom/sr_settings</string>
+	
+	
+	<string>images/shak/animal/gezi</string>
+	<string>images/shak/animal/kongque</string>
+	<string>images/shak/animal/laoying</string>
+	<string>images/shak/animal/shayu_jin</string>
+	<string>images/shak/animal/shayu_yin</string>
+	<string>images/shak/animal/yanzi</string>
+
+	<string>images/common/animal/houzi</string>
+	<string>images/common/animal/shizi</string>
+	<string>images/common/animal/tuzi</string>
+	<string>images/common/animal/xiongmao</string>
+	
+	
+</array>
+</plist>

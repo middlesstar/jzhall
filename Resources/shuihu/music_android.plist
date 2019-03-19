@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>xiongdiwushu</key>
+	<string>sound_android/xiongdiwushu.ogg</string>
+	<key>bibeibgsound</key>
+	<string>sound_android/bibeibgsound.ogg</string>
+	<key>yaosaizi</key>
+	<string>sound_android/yaosaizi.ogg</string>
+	<key>shuihuchuan3</key>
+	<string>sound_android/shuihuchuan3.ogg</string>
+</dict>
+</plist>
